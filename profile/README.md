@@ -1,12 +1,5 @@
-## Hi there 👋
+# Somos a Zeine
 
-<!--
+Um hub de soluções corporativas que ajuda clientes e parceiros a acelerarem sua Jornada mediante soluções personalizadas.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Cada negócio é singular, por isso oferecemos soluções personalizadas baseadas em dados, comunicação, tecnologia, planejamento e IA para atender às necessidades específicas de empreendedores e empresas do Brasil e do mundo.
